@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="team01@10.60.102.45:22 password (3)" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="team01@10.60.102.45:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/team01/gxz/projects/Stego" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="team01@10.60.102.45:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/team01/gxz/projects/Stego" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.11.0 (sftp://team01@10.60.102.89:22/home/team01/miniconda3/envs/pytorch_diffusion_model_celebahq-master/bin/python)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.0 (sftp://team01@10.60.102.45:22/home/team01/miniconda3/envs/pytorch_diffusion_model_celebahq-master/bin/python)" project-jdk-type="Python SDK" />
+</project>
